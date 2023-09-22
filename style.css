@@ -1,0 +1,16 @@
+body {
+    background-color:black;
+}
+h1 {
+    color: blueviolet;
+    font-size: larger;
+    font-style: italic;
+}
+h2 {
+    color: darkgoldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+img{
+    width: 200px;
+   position: relative;
+}
